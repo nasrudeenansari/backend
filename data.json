@@ -1,0 +1,10 @@
+[
+    {"dbName":"202215",
+    "data":[
+        {"path":"000000.zip","url":"https://example/000000.com","size":"46MB","_id":1},
+        {"path":"000001.zip","url":"https://example/000001.com","size":"26MB","_id":2},
+        {"path":"000002.zip","url":"https://example/000002.com","size":"146MB","_id":3},
+        {"path":"000003.zip","url":"https://example/000003.com","size":"96MB","_id":4}
+    ]
+    }
+]
